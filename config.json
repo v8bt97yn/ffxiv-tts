@@ -1,0 +1,55 @@
+{
+    "websocket_uri": "ws://127.0.0.1:12746/Messages",
+    "output_directory": "outputs",
+    "speaker_file_path": "speaker_details.json",
+    "max_output_files": 5,
+    "voices": {
+        "male": [
+            "en-US-ChristopherNeural",
+            "en-US-EricNeural",
+            "en-US-GuyNeural",
+            "en-US-SteffanNeural"
+        ],
+        "female": [
+            "en-US-AriaNeural",
+            "en-US-JennyNeural",
+            "en-US-MichelleNeural"
+        ]
+    },
+    "string_replacements": {
+        "venturer": "adventurer",
+        "afore": "before",
+        "amaljaa": "uhmalljah",
+        "an": "and",
+        "anyroad": "anyway",
+        "aught": "anything",
+        "callin'": "calling",
+        "'em": "them",
+        "'emselves": "themselves",
+        "fer": "for",
+        "heh": "ha",
+        "hells're": "hells are",
+        "hm": "hmm",
+        "li'l": "little",
+        "mayhap": "maybe",
+        "might be": "maybe",
+        "must needs": "needs",
+        "naught": "nothing",
+        "o'": "of",
+        "o'er": "over",
+        "ol'": "old",
+        "prob'ly": "probably",
+        "pshhh": "",
+        "queer": "odd",
+        "runnin": "running",
+        "s'pose": "suppose",
+        "shkohhh": "",
+        "skyfryn": "skyfren",
+        "sow": "sew",
+        "thanalan": "than-ul-an",
+        "y'shtola": "eesh-tola",
+        "yda": "eeda",
+        "ye": "you",
+        "yer": "your"
+    }
+}

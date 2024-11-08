@@ -1,0 +1,1507 @@
+[
+    {
+        "name": "Urianger",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+9"
+    },
+    {
+        "name": "Biggs",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-EricNeural",
+        "pitch": "-14"
+    },
+    {
+        "name": "Wedge",
+        "gender": "Male",
+        "race": "Lalafell",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+13"
+    },
+    {
+        "name": "Y'shtola",
+        "gender": "Female",
+        "race": "Miqo'te",
+        "voice": "en-US-MichelleNeural",
+        "pitch": "-10"
+    },
+    {
+        "name": "A'aba Tia",
+        "gender": "Male",
+        "race": "Miqo'te",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-5"
+    },
+    {
+        "name": "Arenvald",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+1"
+    },
+    {
+        "name": "Papalymo",
+        "gender": "Male",
+        "race": "Lalafell",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+14"
+    },
+    {
+        "name": "Noraxia",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-EricNeural",
+        "pitch": "-1"
+    },
+    {
+        "name": "Medrod",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+10"
+    },
+    {
+        "name": "",
+        "gender": "None",
+        "race": "Unknown",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-4"
+    },
+    {
+        "name": "Aideen",
+        "gender": "Female",
+        "race": "Hyur",
+        "voice": "en-US-AriaNeural",
+        "pitch": "+8"
+    },
+    {
+        "name": "Ivaurault",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-2"
+    },
+    {
+        "name": "Jahelle",
+        "gender": "Female",
+        "race": "Elezen",
+        "voice": "en-US-AriaNeural",
+        "pitch": "-8"
+    },
+    {
+        "name": "Shifty-eyed Prospector",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+4"
+    },
+    {
+        "name": "Wood Wailer Sentry",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-EricNeural",
+        "pitch": "+9"
+    },
+    {
+        "name": "Aethelmaer",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+1"
+    },
+    {
+        "name": "Mother Miounne",
+        "gender": "Female",
+        "race": "Elezen",
+        "voice": "en-US-AriaNeural",
+        "pitch": "+1"
+    },
+    {
+        "name": "Bernadette",
+        "gender": "Female",
+        "race": "Elezen",
+        "voice": "en-US-MichelleNeural",
+        "pitch": "-3"
+    },
+    {
+        "name": "Ceinguled",
+        "gender": "Female",
+        "race": "Hyur",
+        "voice": "en-US-AriaNeural",
+        "pitch": "-1"
+    },
+    {
+        "name": "Mitainie",
+        "gender": "Female",
+        "race": "Elezen",
+        "voice": "en-US-MichelleNeural",
+        "pitch": "-6"
+    },
+    {
+        "name": "Ursandel",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-9"
+    },
+    {
+        "name": "???",
+        "gender": "None",
+        "race": "Unknown",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+10"
+    },
+    {
+        "name": "Ascian of the Twelfth Staff",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-1"
+    },
+    {
+        "name": "Ascian of the Twelfth Sword",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-1"
+    },
+    {
+        "name": "Minfilia",
+        "gender": "Female",
+        "race": "Hyur",
+        "voice": "en-US-MichelleNeural",
+        "pitch": "-10"
+    },
+    {
+        "name": "R'ashaht Rhiki",
+        "gender": "Female",
+        "race": "Miqo'te",
+        "voice": "en-US-JennyNeural",
+        "pitch": "+2"
+    },
+    {
+        "name": "Merlwyb",
+        "gender": "Female",
+        "race": "Roegadyn",
+        "voice": "en-US-MichelleNeural",
+        "pitch": "-20"
+    },
+    {
+        "name": "Trachtoum",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "-20"
+    },
+    {
+        "name": "Miller in Need",
+        "gender": "Female",
+        "race": "Hyur",
+        "voice": "en-US-MichelleNeural",
+        "pitch": "-5"
+    },
+    {
+        "name": "Grey Fleet Miller",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-9"
+    },
+    {
+        "name": "Trachtoum Parter of Seas",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-15"
+    },
+    {
+        "name": "Wheiskaet",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "-19"
+    },
+    {
+        "name": "Landenel",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+9"
+    },
+    {
+        "name": "U'odh Nunh",
+        "gender": "Male",
+        "race": "Miqo'te",
+        "voice": "en-US-EricNeural",
+        "pitch": "+1"
+    },
+    {
+        "name": "Ozun Nazun",
+        "gender": "Male",
+        "race": "Lalafell",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+16"
+    },
+    {
+        "name": "Ferry Skipper",
+        "gender": "Female",
+        "race": "Roegadyn",
+        "voice": "en-US-AriaNeural",
+        "pitch": "-20"
+    },
+    {
+        "name": "Brayflox Alltalks",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-EricNeural",
+        "pitch": "-5"
+    },
+    {
+        "name": "Goblin Pathfinder",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "-10"
+    },
+    {
+        "name": "Shamani Lohmani",
+        "gender": "Male",
+        "race": "Lalafell",
+        "voice": "en-US-EricNeural",
+        "pitch": "+11"
+    },
+    {
+        "name": "Byrglaent",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-19"
+    },
+    {
+        "name": "Durim Falurim",
+        "gender": "Male",
+        "race": "Lalafell",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+11"
+    },
+    {
+        "name": "Junghbhar",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-EricNeural",
+        "pitch": "-13"
+    },
+    {
+        "name": "Rhitskylt",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-12"
+    },
+    {
+        "name": "Drest",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+1"
+    },
+    {
+        "name": "Vineyard Bond",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-9"
+    },
+    {
+        "name": "Gegeruju",
+        "gender": "Male",
+        "race": "Lalafell",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+10"
+    },
+    {
+        "name": "Company of Heroes",
+        "gender": "None",
+        "race": "Unknown",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-6"
+    },
+    {
+        "name": "Bronze-skinned Beauty",
+        "gender": "Female",
+        "race": "Miqo'te",
+        "voice": "en-US-AriaNeural",
+        "pitch": "+7"
+    },
+    {
+        "name": "Riol",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+10"
+    },
+    {
+        "name": "Cowering Kobold",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "-9"
+    },
+    {
+        "name": "Crazed Kobold",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-3"
+    },
+    {
+        "name": "Kobolds",
+        "gender": "None",
+        "race": "Unknown",
+        "voice": "en-US-EricNeural",
+        "pitch": "+9"
+    },
+    {
+        "name": "2nd Order Patriarch Za Da",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-10"
+    },
+    {
+        "name": "Titan",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "-30"
+    },
+    {
+        "name": "Nero tol Scaeva",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+7"
+    },
+    {
+        "name": "Lahabrea",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-7"
+    },
+    {
+        "name": "Rhitahtyn sas Arvina",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-EricNeural",
+        "pitch": "-10"
+    },
+    {
+        "name": "Otopa Pottopa",
+        "gender": "Male",
+        "race": "Lalafell",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+11"
+    },
+    {
+        "name": "Jandelaine",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-1"
+    },
+    {
+        "name": "Delivery Moogle",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+9"
+    },
+    {
+        "name": "Frediswitha",
+        "gender": "Female",
+        "race": "Hyur",
+        "voice": "en-US-JennyNeural",
+        "pitch": "+2"
+    },
+    {
+        "name": "Swaenhylt",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-EricNeural",
+        "pitch": "-13"
+    },
+    {
+        "name": "Iliud",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+7"
+    },
+    {
+        "name": "Marques",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-EricNeural",
+        "pitch": "-1"
+    },
+    {
+        "name": "Traveling Goldsmith",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+5"
+    },
+    {
+        "name": "Eluned",
+        "gender": "Female",
+        "race": "Hyur",
+        "voice": "en-US-AriaNeural",
+        "pitch": "+2"
+    },
+    {
+        "name": "Vesper Bay Shopkeep",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-17"
+    },
+    {
+        "name": "Disconcerted Coachman",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+4"
+    },
+    {
+        "name": "Komuxio",
+        "gender": "Female",
+        "race": "",
+        "voice": "en-US-JennyNeural",
+        "pitch": "-1"
+    },
+    {
+        "name": "Frixio",
+        "gender": "Female",
+        "race": "",
+        "voice": "en-US-AriaNeural",
+        "pitch": "-9"
+    },
+    {
+        "name": "Wood Wailer Lance",
+        "gender": "Female",
+        "race": "Miqo'te",
+        "voice": "en-US-JennyNeural",
+        "pitch": "-9"
+    },
+    {
+        "name": "Vortefaurt",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "-4"
+    },
+    {
+        "name": "Ludovoix",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+1"
+    },
+    {
+        "name": "Keeled-over Knight",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-7"
+    },
+    {
+        "name": "Edmelle",
+        "gender": "Female",
+        "race": "Elezen",
+        "voice": "en-US-MichelleNeural",
+        "pitch": "+4"
+    },
+    {
+        "name": "Forlemort",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-10"
+    },
+    {
+        "name": "Guillaime",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-EricNeural",
+        "pitch": "+5"
+    },
+    {
+        "name": "Jocea",
+        "gender": "Female",
+        "race": "Hyur",
+        "voice": "en-US-JennyNeural",
+        "pitch": "+5"
+    },
+    {
+        "name": "Established Astrologian",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+5"
+    },
+    {
+        "name": "Portelaine",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-EricNeural",
+        "pitch": "+2"
+    },
+    {
+        "name": "Carrilaut",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-8"
+    },
+    {
+        "name": "Francel",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-EricNeural",
+        "pitch": "+4"
+    },
+    {
+        "name": "Haurchefant",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-8"
+    },
+    {
+        "name": "Ninne",
+        "gender": "Female",
+        "race": "Elezen",
+        "voice": "en-US-AriaNeural",
+        "pitch": "-6"
+    },
+    {
+        "name": "Cravellin",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+10"
+    },
+    {
+        "name": "Unsettled Knight",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-EricNeural",
+        "pitch": "+3"
+    },
+    {
+        "name": "Unfit Knight",
+        "gender": "Female",
+        "race": "Elezen",
+        "voice": "en-US-AriaNeural",
+        "pitch": "+1"
+    },
+    {
+        "name": "Unnerved Knight",
+        "gender": "Female",
+        "race": "Elezen",
+        "voice": "en-US-JennyNeural",
+        "pitch": "+9"
+    },
+    {
+        "name": "Rickeman",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-10"
+    },
+    {
+        "name": "Apathetic Porter",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-3"
+    },
+    {
+        "name": "Brigie",
+        "gender": "Female",
+        "race": "Elezen",
+        "voice": "en-US-AriaNeural",
+        "pitch": "-7"
+    },
+    {
+        "name": "Hourlinet",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-EricNeural",
+        "pitch": "-4"
+    },
+    {
+        "name": "Hourlinet the Devout",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+1"
+    },
+    {
+        "name": "Alderique the Unyielding",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+1"
+    },
+    {
+        "name": "Haurchefant of the Silver Fuller",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+6"
+    },
+    {
+        "name": "Discomposed Cataloger",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-6"
+    },
+    {
+        "name": "Brunadier",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-EricNeural",
+        "pitch": "+3"
+    },
+    {
+        "name": "Alboise",
+        "gender": "Female",
+        "race": "Elezen",
+        "voice": "en-US-JennyNeural",
+        "pitch": "-4"
+    },
+    {
+        "name": "Astidien",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+6"
+    },
+    {
+        "name": "Goudernoux",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+4"
+    },
+    {
+        "name": "Drillemont",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "-7"
+    },
+    {
+        "name": "Cid",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-EricNeural",
+        "pitch": "-10"
+    },
+    {
+        "name": "Alphinaud",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+9"
+    },
+    {
+        "name": "Haustefort",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-10"
+    },
+    {
+        "name": "Theophilain",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-EricNeural",
+        "pitch": "-5"
+    },
+    {
+        "name": "Ombeline",
+        "gender": "Female",
+        "race": "Elezen",
+        "voice": "en-US-AriaNeural",
+        "pitch": "-9"
+    },
+    {
+        "name": "Ignemortel",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-10"
+    },
+    {
+        "name": "Cenota",
+        "gender": "Female",
+        "race": "Hyur",
+        "voice": "en-US-JennyNeural",
+        "pitch": "+6"
+    },
+    {
+        "name": "Joellaut",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+2"
+    },
+    {
+        "name": "Patrick",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+9"
+    },
+    {
+        "name": "Prunilla",
+        "gender": "Female",
+        "race": "Elezen",
+        "voice": "en-US-MichelleNeural",
+        "pitch": "+4"
+    },
+    {
+        "name": "Cornered Expeditioner",
+        "gender": "Female",
+        "race": "Hyur",
+        "voice": "en-US-JennyNeural",
+        "pitch": "+0"
+    },
+    {
+        "name": "Drillemont the Honest",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-EricNeural",
+        "pitch": "+7"
+    },
+    {
+        "name": "Inquisitor Guillaime",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "-6"
+    },
+    {
+        "name": "Guillaime",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-EricNeural",
+        "pitch": "+4"
+    },
+    {
+        "name": "Nathelain",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-8"
+    },
+    {
+        "name": "Scion Marauder",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-15"
+    },
+    {
+        "name": "Scion Conjurer",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-EricNeural",
+        "pitch": "-5"
+    },
+    {
+        "name": "Scion Thaumaturge",
+        "gender": "Female",
+        "race": "Lalafell",
+        "voice": "en-US-MichelleNeural",
+        "pitch": "+19"
+    },
+    {
+        "name": "Lamberteint",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "-10"
+    },
+    {
+        "name": "Hahasako",
+        "gender": "Male",
+        "race": "Lalafell",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+14"
+    },
+    {
+        "name": "Ceana",
+        "gender": "Female",
+        "race": "Hyur",
+        "voice": "en-US-MichelleNeural",
+        "pitch": "-10"
+    },
+    {
+        "name": "Q'ahnebb",
+        "gender": "Female",
+        "race": "Miqo'te",
+        "voice": "en-US-JennyNeural",
+        "pitch": "+7"
+    },
+    {
+        "name": "Firkmann",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-14"
+    },
+    {
+        "name": "Alza Gamilza",
+        "gender": "Male",
+        "race": "Lalafell",
+        "voice": "en-US-EricNeural",
+        "pitch": "+14"
+    },
+    {
+        "name": "Skyfryn",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-11"
+    },
+    {
+        "name": "Yellowjacket",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+5"
+    },
+    {
+        "name": "Mimidoa",
+        "gender": "Male",
+        "race": "Lalafell",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+13"
+    },
+    {
+        "name": "Ferry Skipper",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "-5"
+    },
+    {
+        "name": "Davyd",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-EricNeural",
+        "pitch": "+9"
+    },
+    {
+        "name": "Ahlduwil",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-10"
+    },
+    {
+        "name": "Erapi Taropi",
+        "gender": "Male",
+        "race": "Lalafell",
+        "voice": "en-US-EricNeural",
+        "pitch": "+20"
+    },
+    {
+        "name": "Louis",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+0"
+    },
+    {
+        "name": "Siren",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+10"
+    },
+    {
+        "name": "Hedyn",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-8"
+    },
+    {
+        "name": "Lionnellais",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+3"
+    },
+    {
+        "name": "Garuda",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-EricNeural",
+        "pitch": "+7"
+    },
+    {
+        "name": "Ixali Chieftain",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+10"
+    },
+    {
+        "name": "Yda",
+        "gender": "Female",
+        "race": "Hyur",
+        "voice": "en-US-AriaNeural",
+        "pitch": "-1"
+    },
+    {
+        "name": "Gaius van Baelsar",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-EricNeural",
+        "pitch": "+5"
+    },
+    {
+        "name": "Bricelt",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-2"
+    },
+    {
+        "name": "Pierremons",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "-9"
+    },
+    {
+        "name": "Abelie",
+        "gender": "Female",
+        "race": "Elezen",
+        "voice": "en-US-MichelleNeural",
+        "pitch": "+4"
+    },
+    {
+        "name": "Ignace",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+6"
+    },
+    {
+        "name": "Imperial Soldier",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-EricNeural",
+        "pitch": "+8"
+    },
+    {
+        "name": "5th Cohort Decurion",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+1"
+    },
+    {
+        "name": "Biggs and Wedge",
+        "gender": "None",
+        "race": "Unknown",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+9"
+    },
+    {
+        "name": "Slafborn",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-10"
+    },
+    {
+        "name": "Glaumunt",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+10"
+    },
+    {
+        "name": "Collected Voice",
+        "gender": "None",
+        "race": "Unknown",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-8"
+    },
+    {
+        "name": "Youthful Voice",
+        "gender": "None",
+        "race": "Unknown",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+1"
+    },
+    {
+        "name": "Gruff Voice",
+        "gender": "None",
+        "race": "Unknown",
+        "voice": "en-US-EricNeural",
+        "pitch": "+9"
+    },
+    {
+        "name": "Rugged Researcher",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-10"
+    },
+    {
+        "name": "Imperial Sentry",
+        "gender": "None",
+        "race": "Unknown",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+4"
+    },
+    {
+        "name": "Imperial Decurion",
+        "gender": "None",
+        "race": "Unknown",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+0"
+    },
+    {
+        "name": "Sark Malark",
+        "gender": "Male",
+        "race": "Lalafell",
+        "voice": "en-US-EricNeural",
+        "pitch": "+14"
+    },
+    {
+        "name": "Eginolf",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "-8"
+    },
+    {
+        "name": "Npah Tayuun",
+        "gender": "Female",
+        "race": "Miqo'te",
+        "voice": "en-US-AriaNeural",
+        "pitch": "-3"
+    },
+    {
+        "name": "Imperial Centurion",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+8"
+    },
+    {
+        "name": "Imperial Signaler",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+3"
+    },
+    {
+        "name": "5th Cohort Eques",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+10"
+    },
+    {
+        "name": "Altgrave-one",
+        "gender": "Male",
+        "race": "Au Ra",
+        "voice": "en-US-EricNeural",
+        "pitch": "+5"
+    },
+    {
+        "name": "Serendipity",
+        "gender": "Female",
+        "race": "Hyur",
+        "voice": "en-US-AriaNeural",
+        "pitch": "-9"
+    },
+    {
+        "name": "Wedge",
+        "gender": "None",
+        "race": "Unknown",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "-7"
+    },
+    {
+        "name": "Imperial Signaler",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-EricNeural",
+        "pitch": "-10"
+    },
+    {
+        "name": "5th Cohort Secutor",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+10"
+    },
+    {
+        "name": "Imperial Courier",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-2"
+    },
+    {
+        "name": "Imperial Decurion",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-EricNeural",
+        "pitch": "-9"
+    },
+    {
+        "name": "Imperial Guard",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-8"
+    },
+    {
+        "name": "5th Cohort Hoplomachus",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+9"
+    },
+    {
+        "name": "Tataru",
+        "gender": "Female",
+        "race": "Lalafell",
+        "voice": "en-US-JennyNeural",
+        "pitch": "+20"
+    },
+    {
+        "name": "Livia sas Junius",
+        "gender": "Female",
+        "race": "Elezen",
+        "voice": "en-US-MichelleNeural",
+        "pitch": "-8"
+    },
+    {
+        "name": "Imperial Sentry",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+10"
+    },
+    {
+        "name": "5th Cohort Optio",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+6"
+    },
+    {
+        "name": "Raubahn",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-4"
+    },
+    {
+        "name": "Kan-E-Senna",
+        "gender": "Female",
+        "race": "Hyur",
+        "voice": "en-US-JennyNeural",
+        "pitch": "+4"
+    },
+    {
+        "name": "Nanamo Ul Namo",
+        "gender": "Female",
+        "race": "Lalafell",
+        "voice": "en-US-AriaNeural",
+        "pitch": "+18"
+    },
+    {
+        "name": "Arrivals Attendant",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+7"
+    },
+    {
+        "name": "Bartholomew",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "-8"
+    },
+    {
+        "name": "Allied Communications Officer",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+5"
+    },
+    {
+        "name": "Adalbert",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-1"
+    },
+    {
+        "name": "Flame Runner",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-EricNeural",
+        "pitch": "+8"
+    },
+    {
+        "name": "1st Platoon Soldier",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "-4"
+    },
+    {
+        "name": "2nd Platoon Soldier",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-EricNeural",
+        "pitch": "-19"
+    },
+    {
+        "name": "3rd Platoon Soldier",
+        "gender": "Male",
+        "race": "Lalafell",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+16"
+    },
+    {
+        "name": "4th Platoon Soldier",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-EricNeural",
+        "pitch": "-2"
+    },
+    {
+        "name": "Imperial Pilus Prior",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-4"
+    },
+    {
+        "name": "Rhitahtyn sas Arvina",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-EricNeural",
+        "pitch": "+8"
+    },
+    {
+        "name": "All",
+        "gender": "None",
+        "race": "Unknown",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+3"
+    },
+    {
+        "name": "Imperial Officer",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+9"
+    },
+    {
+        "name": "Tribuni",
+        "gender": "None",
+        "race": "Unknown",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+0"
+    },
+    {
+        "name": "Cracked Fist",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "-20"
+    },
+    {
+        "name": "Flame Private First Class",
+        "gender": "Female",
+        "race": "Hyur",
+        "voice": "en-US-JennyNeural",
+        "pitch": "+4"
+    },
+    {
+        "name": "Flame Private Third Class",
+        "gender": "Male",
+        "race": "Lalafell",
+        "voice": "en-US-EricNeural",
+        "pitch": "+11"
+    },
+    {
+        "name": "Flame Private Second Class",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+2"
+    },
+    {
+        "name": "Edelstein",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "+6"
+    },
+    {
+        "name": "Storm Marauder",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "-14"
+    },
+    {
+        "name": "Cid",
+        "gender": "None",
+        "race": "Unknown",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+5"
+    },
+    {
+        "name": "Mytesyn",
+        "gender": "Male",
+        "race": "Roegadyn",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "-14"
+    },
+    {
+        "name": "The Black Eft",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-3"
+    },
+    {
+        "name": "Livia sas Junius",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+5"
+    },
+    {
+        "name": "Nero tol Scaeva",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-EricNeural",
+        "pitch": "+6"
+    },
+    {
+        "name": "Gaius van Baelsar",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+10"
+    },
+    {
+        "name": "Gaius van Baelsar",
+        "gender": "None",
+        "race": "Unknown",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-5"
+    },
+    {
+        "name": "Hydaelyn",
+        "gender": "None",
+        "race": "Unknown",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "-3"
+    },
+    {
+        "name": "Serpent Conjurer",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-2"
+    },
+    {
+        "name": "Lahabrea",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+9"
+    },
+    {
+        "name": "Hydaelyn",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-EricNeural",
+        "pitch": "+7"
+    },
+    {
+        "name": "Thancred",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-GuyNeural",
+        "pitch": "-3"
+    },
+    {
+        "name": "F'lhaminn",
+        "gender": "Female",
+        "race": "Miqo'te",
+        "voice": "en-US-AriaNeural",
+        "pitch": "+10"
+    },
+    {
+        "name": "Adventurers' Guild Emissary",
+        "gender": "Male",
+        "race": "Hyur",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+8"
+    },
+    {
+        "name": "Vorsaile Heuloix",
+        "gender": "Male",
+        "race": "Elezen",
+        "voice": "en-US-SteffanNeural",
+        "pitch": "+4"
+    },
+    {
+        "name": "Silent Conjurer",
+        "gender": "Female",
+        "race": "Elezen",
+        "voice": "en-US-JennyNeural",
+        "pitch": "+2"
+    },
+    {
+        "name": "Kuplo Kopp",
+        "gender": "Male",
+        "race": "",
+        "voice": "en-US-ChristopherNeural",
+        "pitch": "+5"
+    },
+    {
+        "name": "Raya-O-Senna",
+        "gender": "Female",
+        "race": "Hyur",
+        "voice": "en-US-MichelleNeural",
+        "pitch": "+0"
+    }
+]
